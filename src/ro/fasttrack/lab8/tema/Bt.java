@@ -1,6 +1,6 @@
 package ro.fasttrack.lab8.tema;
 
-public class Bt implements Bank{
+public class Bt implements Bank {
     private int suma;
 
     public Bt(int suma) {

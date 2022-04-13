@@ -58,6 +58,8 @@ public class TemaMain {
         System.out.println(soarece.walk());
 
         // 4.
-
+        Student student = new Student("Ionut", 9);
+        System.out.println("Studentul " + student.getName());
+        System.out.println("Are nota: " + student.getGrade());
     }
 }

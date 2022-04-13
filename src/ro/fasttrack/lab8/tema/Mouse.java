@@ -1,7 +1,9 @@
 package ro.fasttrack.lab8.tema;
 
-public class Mouse implements Animal{
-    public Mouse(){ }
+public class Mouse implements Animal {
+    public Mouse() {
+    }
+
     @Override
     public String eat() {
         return "cheese";
